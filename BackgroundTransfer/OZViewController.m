@@ -26,6 +26,10 @@
     [super viewDidLoad];
     
     self.progressView.tintColor = [UIColor colorWithRed:0.04 green:0.42 blue:1 alpha:1];
+    self.session = [self backgroundSession];
+    
+    self.progressView.progress = 0;
+    self.progressView.hidden = YES;
 }
 
 - (void)callCompletionHandlerWhenFinished {
@@ -55,12 +59,12 @@
     }
     
     NSURL *imageURL = [NSURL URLWithString:@"http://kevinraber.files.wordpress.com/2011/01/cf001795.jpg"];
-    self.task = [self.session downloadTaskWithURL:imageURL];
+    NSURLRequest *request = [NSURLRequest requestWithURL:imageURL];
+    self.task = [self.session downloadTaskWithRequest:request];
+    [self.task resume];
     
     self.imageView.hidden = YES;
     self.progressView.hidden = NO;
-    
-    [self.task resume];
 }
 
 - (IBAction)forceCrash:(id)sender {
@@ -74,24 +78,21 @@
 
 #pragma mark - NSURLSession Instantiation
 
-- (NSURLSession *)session {
-    static NSURLSession *onceSession = nil;
+- (NSURLSession *)backgroundSession {
+    static NSURLSession *session = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
         NSURLSessionConfiguration *configuration = [NSURLSessionConfiguration backgroundSessionConfiguration:@"com.oozou.BackgroundTransfer"];
-        onceSession = [NSURLSession sessionWithConfiguration:configuration
-                                                delegate:self
-                                           delegateQueue:nil];
+        session = [NSURLSession sessionWithConfiguration:configuration delegate:self delegateQueue:nil];
     });
     
-    return onceSession;
+    return session;
 }
 
 #pragma mark - NSURLSessionDownloadDelegate
 
 - (void)URLSession:(NSURLSession *)session downloadTask:(NSURLSessionDownloadTask *)downloadTask didFinishDownloadingToURL:(NSURL *)location {
-    
-    NSString *filePath = [self filePathWithName:@"silhouette.jpg"];
+    NSString *filePath = [self filePathWithName:@"image.jpg"];
     [[NSFileManager defaultManager] copyItemAtPath:[location path]
                                             toPath:filePath
                                              error:nil];
