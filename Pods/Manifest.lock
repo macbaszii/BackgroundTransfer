@@ -1,0 +1,41 @@
+PODS:
+  - MRProgress (0.4.1):
+    - MRProgress/ActivityIndicator
+    - MRProgress/Blur
+    - MRProgress/Circular
+    - MRProgress/Helper
+    - MRProgress/Icons
+    - MRProgress/MessageInterceptor
+    - MRProgress/NavigationBarProgress
+    - MRProgress/Overlay
+    - MRProgress/Stopable
+    - MRProgress/WeakProxy
+  - MRProgress/ActivityIndicator (0.4.1):
+    - MRProgress/Stopable
+  - MRProgress/Blur (0.4.1):
+    - MRProgress/Helper
+  - MRProgress/Circular (0.4.1):
+    - MRProgress/Helper
+    - MRProgress/Stopable
+  - MRProgress/Helper (0.4.1)
+  - MRProgress/Icons (0.4.1)
+  - MRProgress/MessageInterceptor (0.4.1)
+  - MRProgress/NavigationBarProgress (0.4.1):
+    - MRProgress/MessageInterceptor
+  - MRProgress/Overlay (0.4.1):
+    - MRProgress/ActivityIndicator
+    - MRProgress/Blur
+    - MRProgress/Circular
+    - MRProgress/Helper
+    - MRProgress/Icons
+  - MRProgress/Stopable (0.4.1):
+    - MRProgress/Helper
+  - MRProgress/WeakProxy (0.4.1)
+
+DEPENDENCIES:
+  - MRProgress
+
+SPEC CHECKSUMS:
+  MRProgress: 6530ce71278dd7ecfb5e3c3e37df03a323690936
+
+COCOAPODS: 0.29.0

@@ -10,6 +10,7 @@
 
 @interface OZAppDelegate : UIResponder <UIApplicationDelegate>
 
+@property (nonatomic, copy) void (^backgroundSessionCompletionHandler)();
 @property (strong, nonatomic) UIWindow *window;
 
 @end
