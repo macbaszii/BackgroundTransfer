@@ -25,56 +25,15 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.progressView.tintColor = [UIColor colorWithRed:0.04 green:0.42 blue:1 alpha:1];
+    self.progressView.tintColor = [UIColor colorWithRed:0.04
+                                                  green:0.42
+                                                   blue:1
+                                                  alpha:1];
     self.session = [self backgroundSession];
     
     self.progressView.progress = 0;
     self.progressView.hidden = YES;
 }
-
-- (void)callCompletionHandlerWhenFinished {
-    /*
-     * Ask the session for its current tasks;
-     * if there are none, then the session is complete.
-     */
-    [self.session getTasksWithCompletionHandler:^(NSArray *dataTasks, NSArray *uploadTasks, NSArray *downloadTasks) {
-        NSUInteger taskCount = dataTasks.count + uploadTasks.count + downloadTasks.count;
-        
-        if (taskCount == 0) {
-            OZAppDelegate *appDelegate = [[UIApplication sharedApplication] delegate];
-            if (appDelegate.backgroundSessionCompletionHandler) {
-                void (^completionHandler)() = appDelegate.backgroundSessionCompletionHandler;
-                appDelegate.backgroundSessionCompletionHandler = nil;
-                completionHandler();
-            }
-        }
-    }];
-}
-
-#pragma mark - Action
-
-- (IBAction)fetchImage:(id)sender {
-    if (self.task) {
-        return;
-    }
-    
-    NSURL *imageURL = [NSURL URLWithString:@"http://kevinraber.files.wordpress.com/2011/01/cf001795.jpg"];
-    NSURLRequest *request = [NSURLRequest requestWithURL:imageURL];
-    self.task = [self.session downloadTaskWithRequest:request];
-    [self.task resume];
-    
-    self.imageView.hidden = YES;
-    self.progressView.hidden = NO;
-}
-
-- (IBAction)forceCrash:(id)sender {
-    NSString *someString;
-    NSArray *someArray = @[someString];
-    
-    NSLog(@"%ld", (unsigned long)someArray.count);
-}
-
-
 
 #pragma mark - NSURLSession Instantiation
 
@@ -89,9 +48,37 @@
     return session;
 }
 
+#pragma mark - Action
+
+- (IBAction)fetchImage:(id)sender {
+    
+    if (self.task) {
+        return;
+    }
+    
+    NSURL *imageURL = [NSURL URLWithString:@"http://kevinraber.files.wordpress.com/2011/01/cf001795.jpg"];
+    NSURLRequest *request = [NSURLRequest requestWithURL:imageURL];
+    self.task = [self.session downloadTaskWithRequest:request];
+    [self.task resume];
+    
+    self.imageView.hidden = YES;
+    
+    self.progressView.progress = 0;
+    self.progressView.hidden = NO;
+}
+
+- (IBAction)forceCrash:(id)sender {
+    NSString *someString;
+    NSArray *someArray = @[someString];
+    
+    NSLog(@"%ld", (unsigned long)someArray.count);
+}
+
+
 #pragma mark - NSURLSessionDownloadDelegate
 
-- (void)URLSession:(NSURLSession *)session downloadTask:(NSURLSessionDownloadTask *)downloadTask didFinishDownloadingToURL:(NSURL *)location {
+- (void)URLSession:(NSURLSession *)session downloadTask:(NSURLSessionDownloadTask *)downloadTask
+                              didFinishDownloadingToURL:(NSURL *)location {
     NSString *filePath = [self filePathWithName:@"image.jpg"];
     [[NSFileManager defaultManager] copyItemAtPath:[location path]
                                             toPath:filePath
@@ -106,11 +93,10 @@
     
 }
 
-- (void)URLSession:(NSURLSession *)session downloadTask:(NSURLSessionDownloadTask *)downloadTask didResumeAtOffset:(int64_t)fileOffset expectedTotalBytes:(int64_t)expectedTotalBytes {
-    
-}
-
-- (void)URLSession:(NSURLSession *)session downloadTask:(NSURLSessionDownloadTask *)downloadTask didWriteData:(int64_t)bytesWritten totalBytesWritten:(int64_t)totalBytesWritten totalBytesExpectedToWrite:(int64_t)totalBytesExpectedToWrite {
+- (void)URLSession:(NSURLSession *)session downloadTask:(NSURLSessionDownloadTask *)downloadTask
+                                           didWriteData:(int64_t)bytesWritten
+                                      totalBytesWritten:(int64_t)totalBytesWritten
+                              totalBytesExpectedToWrite:(int64_t)totalBytesExpectedToWrite {
     
     double currentProgress = (double)totalBytesWritten / (double)totalBytesExpectedToWrite;
     dispatch_async(dispatch_get_main_queue(), ^{
@@ -118,11 +104,49 @@
     });
 }
 
+- (void)URLSession:(NSURLSession *)session downloadTask:(NSURLSessionDownloadTask *)downloadTask
+                                      didResumeAtOffset:(int64_t)fileOffset
+                                     expectedTotalBytes:(int64_t)expectedTotalBytes {
+    
+}
+
 #pragma mark - NSURLSessionDelegate
 
-- (void)URLSession:(NSURLSession *)session task:(NSURLSessionTask *)task didCompleteWithError:(NSError *)error {
+- (void)URLSession:(NSURLSession *)session task:(NSURLSessionTask *)task
+                           didCompleteWithError:(NSError *)error {
+    if (!error) {
+        NSLog(@"Task: %@ completed successfully", task);
+    } else {
+        NSLog(@"Task: %@ completed with error: %@", task, [error localizedDescription]);
+    }
+    
+    double progress = (double)task.countOfBytesReceived / (double)task.countOfBytesExpectedToReceive;
+    dispatch_async(dispatch_get_main_queue(), ^{
+        self.progressView.progress = progress;
+    });
+    
     self.task = nil;
-    [self callCompletionHandlerWhenFinished];
+}
+
+- (void)URLSessionDidFinishEventsForBackgroundURLSession:(NSURLSession *)session {
+    /*
+     * Ask the session for its current tasks;
+     * if there are none, then the session is complete.
+     */
+    [self.session getTasksWithCompletionHandler:^(NSArray *dataTasks,
+                                                  NSArray *uploadTasks,
+                                                  NSArray *downloadTasks) {
+        NSUInteger taskCount = dataTasks.count + uploadTasks.count + downloadTasks.count;
+        
+        if (taskCount == 0) {
+            OZAppDelegate *appDelegate = [[UIApplication sharedApplication] delegate];
+            if (appDelegate.backgroundSessionCompletionHandler) {
+                void (^completionHandler)() = appDelegate.backgroundSessionCompletionHandler;
+                appDelegate.backgroundSessionCompletionHandler = nil;
+                completionHandler();
+            }
+        }
+    }];
 }
 
 #pragma mark - Document Directory
