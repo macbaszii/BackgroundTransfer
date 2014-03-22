@@ -1,526 +1,0 @@
-TPods-MRProgress
-v6
-r1
-cCheck dependencies
-cProcessPCH /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch.pch Pods-MRProgress-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ezucrhtgmndotofmtqovyprtpohp/Pods-MRProgress-prefix.pch.pch Pods-MRProgress-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRActivityIndicatorView.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRActivityIndicatorView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRBlurView.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/MRBlurView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRCircularProgressView.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRCircularProgressView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRIconView.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRIconView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRMessageInterceptor.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRMessageInterceptor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRNavigationBarProgressView.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRNavigationBarProgressView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRProgressOverlayView.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRProgressOverlayView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRStopButton.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRWeakProxy.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRWeakProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/Pods-MRProgress-dummy.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/UIImage+MRImageEffects.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/UIImage+MRImageEffects.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/libPods-MRProgress.a normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
-c00000000000000000000000000000000
-t2
-s0
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000000000000000000000000000
-t2
-s0
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000000000000000000000000000
-t2
-s0
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c00000000000000000000000000000000
-t2
-s0
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000000000000000000000000000
-t2
-s0
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
-c0000000053119F8A0000000000000198
-t1393663882
-s408
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
-c000000005311A6CC00000000000003B4
-t1393665740
-s948
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
-c000000005311A6D8000000000000019E
-t1393665752
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
-c0000000053100EA20000000000000ADC
-t1393561250
-s2780
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRActivityIndicatorView.o
-t1395507210
-s73684
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRBlurView.o
-t1395507210
-s60276
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRCircularProgressView.o
-t1395508054
-s82308
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRIconView.o
-t1395507210
-s51612
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRMessageInterceptor.o
-t1395507210
-s11340
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRNavigationBarProgressView.o
-t1395507210
-s79540
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRProgressOverlayView.o
-t1395508054
-s146068
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRStopButton.o
-t1395507210
-s59372
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRWeakProxy.o
-t1395507210
-s10272
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/Pods-MRProgress-dummy.o
-t1395507210
-s3456
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/Pods-MRProgress.LinkFileList
-c00000000532DC007000000000000070D
-t1395507207
-s1805
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/UIImage+MRImageEffects.o
-t1395507211
-s19636
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ezucrhtgmndotofmtqovyprtpohp/Pods-MRProgress-prefix.pch.pch
-t1395507210
-s121248
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch.pch
-t1395507210
-s121664
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/libPods-MRProgress.a
-t1395508054
-s602192
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/MRBlurView.h
-c00000000532DBF67000000000000019F
-t1395507047
-s415
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/MRBlurView.m
-c00000000532DBF67000000000000105F
-t1395507047
-s4191
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/UIImage+MRImageEffects.h
-c00000000532DBF6700000000000018AB
-t1395507047
-s6315
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/UIImage+MRImageEffects.m
-c00000000532DBF670000000000002B28
-t1395507047
-s11048
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRActivityIndicatorView.h
-c00000000532DBF6700000000000006CA
-t1395507047
-s1738
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRActivityIndicatorView.m
-c00000000532DBF6700000000000013C0
-t1395507047
-s5056
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRCircularProgressView.h
-c00000000532DC27400000000000003EB
-t1395507828
-s1003
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRCircularProgressView.m
-c00000000532DC27600000000000019C1
-t1395507830
-s6593
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRIconView.h
-c00000000532DBF670000000000000243
-t1395507047
-s579
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRIconView.m
-c00000000532DBF670000000000000922
-t1395507047
-s2338
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRNavigationBarProgressView.h
-c00000000532DBF6700000000000007B5
-t1395507047
-s1973
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRNavigationBarProgressView.m
-c00000000532DBF670000000000001CB5
-t1395507047
-s7349
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRProgressOverlayView.h
-c00000000532DBF670000000000002366
-t1395507047
-s9062
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRProgressOverlayView.m
-c00000000532DBF670000000000006323
-t1395507047
-s25379
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.h
-c00000000532DBF6700000000000001FE
-t1395507047
-s510
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.m
-c00000000532DBF670000000000000919
-t1395507047
-s2329
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopableView.h
-c00000000532DBF670000000000000388
-t1395507047
-s904
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRMessageInterceptor.h
-c00000000532DBF670000000000000415
-t1395507047
-s1045
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRMessageInterceptor.m
-c00000000532DBF6700000000000003A9
-t1395507047
-s937
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRProgressHelper.h
-c00000000532DBF670000000000000517
-t1395507047
-s1303
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRWeakProxy.h
-c00000000532DBF670000000000000249
-t1395507047
-s585
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRWeakProxy.m
-c00000000532DBF670000000000000289
-t1395507047
-s649
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-dummy.m
-c00000000532DBF680000000000000086
-t1395507048
-s134
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-prefix.pch
-c00000000532DBF680000000000000057
-t1395507048
-s87
-
-N/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-environment.h
-c00000000532DBF680000000000000B63
-t1395507048
-s2915
-
-CBuild AST from /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/MRBlurView.m
-r0
-
-CBuild AST from /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/UIImage+MRImageEffects.m
-r0
-
-CBuild AST from /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRActivityIndicatorView.m
-r0
-
-CBuild AST from /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRCircularProgressView.m
-r0
-
-CBuild AST from /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRIconView.m
-r0
-
-CBuild AST from /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRNavigationBarProgressView.m
-r0
-
-CBuild AST from /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRProgressOverlayView.m
-r0
-
-CBuild AST from /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.m
-r0
-
-CBuild AST from /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRMessageInterceptor.m
-r0
-
-CBuild AST from /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRWeakProxy.m
-r0
-
-CBuild AST from /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-dummy.m
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0247b24a0cdeb841^e46ab84a0cdeb841^---0#1#1#--18"Check dependencies36"A14AEFBF-1E1C-4885-B69A-90015BB55777-
-
-CCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRActivityIndicatorView.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRActivityIndicatorView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200010.219565
-e417200010.783502
-r1
-xCompileC
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRActivityIndicatorView.o
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRActivityIndicatorView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRActivityIndicatorView.m
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRActivityIndicatorView.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopableView.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRActivityIndicatorView.m297"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRActivityIndicatorView.o MRProgress/src/Components/MRActivityIndicatorView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8271388af7ddb841^5892c88af7ddb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRActivityIndicatorView.m0000000000000000^4750"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRActivityIndicatorView.o MRProgress/src/Components/MRActivityIndicatorView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRActivityIndicatorView.d --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRActivityIndicatorView.dia -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRActivityIndicatorView.m -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRActivityIndicatorView.o36"A6F7BAAE-2E9D-4FE4-9FBC-70532B08E1C8-
-bC30C3540-CF3A-46E8-A6DF-A136E2735861
-
-CCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRBlurView.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/MRBlurView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200010.220203
-e417200010.782052
-r1
-xCompileC
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRBlurView.o
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/MRBlurView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/MRBlurView.m
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/MRBlurView.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/UIImage+MRImageEffects.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRProgressHelper.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/MRBlurView.m265"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRBlurView.o MRProgress/src/Blur/MRBlurView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler03b1388af7ddb841^f434c88af7ddb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/MRBlurView.m0000000000000000^4660"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRBlurView.o MRProgress/src/Blur/MRBlurView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRBlurView.d --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRBlurView.dia -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/MRBlurView.m -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRBlurView.o36"EF363151-B34B-4974-98EE-2563F86E0BD1-
-bC30C3540-CF3A-46E8-A6DF-A136E2735861
-
-CCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRCircularProgressView.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRCircularProgressView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200850.951820
-e417200854.105739
-r1
-xCompileC
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRCircularProgressView.o
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRCircularProgressView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRCircularProgressView.m
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRCircularProgressView.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopableView.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRProgressHelper.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRCircularProgressView.m295"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRCircularProgressView.o MRProgress/src/Components/MRCircularProgressView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfbe5f3d2faddb841^73111bd6faddb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRCircularProgressView.m0000000000000000^4744"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRCircularProgressView.o MRProgress/src/Components/MRCircularProgressView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRCircularProgressView.d --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRCircularProgressView.dia -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRCircularProgressView.m -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRCircularProgressView.o36"998BB134-5DE7-4259-87A3-A323535C8919-
-b7930EED3-0D12-46C6-B623-B728F4C62995
-
-CCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRIconView.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRIconView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200010.222070
-e417200010.776872
-r1
-xCompileC
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRIconView.o
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRIconView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRIconView.m
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRIconView.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRIconView.m271"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRIconView.o MRProgress/src/Components/MRIconView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler761a398af7ddb841^ace1c68af7ddb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRIconView.m0000000000000000^4672"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRIconView.o MRProgress/src/Components/MRIconView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRIconView.d --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRIconView.dia -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRIconView.m -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRIconView.o36"9845F5E2-F3A8-479F-9BD0-53CEDBE4DFDD-
-bC30C3540-CF3A-46E8-A6DF-A136E2735861
-
-CCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRMessageInterceptor.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRMessageInterceptor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200010.778302
-e417200010.859614
-r1
-xCompileC
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRMessageInterceptor.o
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRMessageInterceptor.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRMessageInterceptor.m
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRMessageInterceptor.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRMessageInterceptor.m286"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRMessageInterceptor.o MRProgress/src/Utils/MRMessageInterceptor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1574c78af7ddb841^5d4fdc8af7ddb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRMessageInterceptor.m0000000000000000^4722"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRMessageInterceptor.o MRProgress/src/Utils/MRMessageInterceptor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRMessageInterceptor.d --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRMessageInterceptor.dia -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRMessageInterceptor.m -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRMessageInterceptor.o36"EEDC27F6-4AD1-420C-8CA9-82B616FD7C65-
-bC30C3540-CF3A-46E8-A6DF-A136E2735861
-
-CCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRNavigationBarProgressView.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRNavigationBarProgressView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200010.783474
-e417200010.961503
-r1
-xCompileC
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRNavigationBarProgressView.o
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRNavigationBarProgressView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRNavigationBarProgressView.m
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRNavigationBarProgressView.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRMessageInterceptor.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRNavigationBarProgressView.m305"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRNavigationBarProgressView.o MRProgress/src/Components/MRNavigationBarProgressView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5cc7c88af7ddb841^9625f68af7ddb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRNavigationBarProgressView.m0000000000000000^4774"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRNavigationBarProgressView.o MRProgress/src/Components/MRNavigationBarProgressView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRNavigationBarProgressView.d --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRNavigationBarProgressView.dia -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRNavigationBarProgressView.m -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRNavigationBarProgressView.o36"CA7355C8-E36A-4011-88B7-FAF1E58586B3-
-bC30C3540-CF3A-46E8-A6DF-A136E2735861
-
-CCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRProgressOverlayView.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRProgressOverlayView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200850.952512
-e417200854.105743
-r1
-xCompileC
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRProgressOverlayView.o
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRProgressOverlayView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRProgressOverlayView.m
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRProgressOverlayView.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRActivityIndicatorView.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopableView.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/MRBlurView.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRCircularProgressView.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRIconView.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRProgressHelper.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRProgressOverlayView.m293"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRProgressOverlayView.o MRProgress/src/Components/MRProgressOverlayView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler910df4d2faddb841^581b1bd6faddb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRProgressOverlayView.m0000000000000000^4738"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRProgressOverlayView.o MRProgress/src/Components/MRProgressOverlayView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRProgressOverlayView.d --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRProgressOverlayView.dia -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRProgressOverlayView.m -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRProgressOverlayView.o36"E1160FB9-6E59-4526-A90C-EDC939FC180A-
-b7930EED3-0D12-46C6-B623-B728F4C62995
-
-CCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRStopButton.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200010.788581
-e417200010.927574
-r1
-xCompileC
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRStopButton.o
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.m
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.h
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRProgressHelper.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.m275"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRStopButton.o MRProgress/src/Components/MRStopButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4d13ca8af7ddb841^c075ed8af7ddb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.m0000000000000000^4684"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRStopButton.o MRProgress/src/Components/MRStopButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRStopButton.d --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRStopButton.dia -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Components/MRStopButton.m -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRStopButton.o36"AF14DD5C-7D74-4165-B0E5-102BFBF03DD9-
-bC30C3540-CF3A-46E8-A6DF-A136E2735861
-
-CCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRWeakProxy.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRWeakProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200010.860198
-e417200010.930120
-r1
-xCompileC
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRWeakProxy.o
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRWeakProxy.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRWeakProxy.m
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRWeakProxy.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRWeakProxy.m268"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRWeakProxy.o MRProgress/src/Utils/MRWeakProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7aa5dc8af7ddb841^1420ee8af7ddb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRWeakProxy.m0000000000000000^4668"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRWeakProxy.o MRProgress/src/Utils/MRWeakProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRWeakProxy.d --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRWeakProxy.dia -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Utils/MRWeakProxy.m -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/MRWeakProxy.o36"8AECB153-D7C9-410F-B219-7C71832E8CD2-
-bC30C3540-CF3A-46E8-A6DF-A136E2735861
-
-CCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/Pods-MRProgress-dummy.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200010.928600
-e417200010.989285
-r1
-xCompileC
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/Pods-MRProgress-dummy.o
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-dummy.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-dummy.m
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-dummy.m267"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/Pods-MRProgress-dummy.o Pods-MRProgress-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler35eeed8af7ddb841^2d42fd8af7ddb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-dummy.m0000000000000000^4675"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/Pods-MRProgress-dummy.o Pods-MRProgress-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -include /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ezucrhtgmndotofmtqovyprtpohp/Pods-MRProgress-prefix.pch -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/Pods-MRProgress-dummy.d --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/Pods-MRProgress-dummy.dia -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-dummy.m -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/Pods-MRProgress-dummy.o36"035BED9E-3E44-4517-882F-1E20400B75D5-
-bC30C3540-CF3A-46E8-A6DF-A136E2735861
-
-CCompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/UIImage+MRImageEffects.o /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/UIImage+MRImageEffects.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200010.930430
-e417200011.353979
-r1
-xCompileC
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/UIImage+MRImageEffects.o
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/UIImage+MRImageEffects.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/UIImage+MRImageEffects.m
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/UIImage+MRImageEffects.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/UIImage+MRImageEffects.m289"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/UIImage+MRImageEffects.o MRProgress/src/Blur/UIImage+MRImageEffects.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6f64ee8af7ddb841^73a15a8bf7ddb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/UIImage+MRImageEffects.m0000000000000000^4732"CompileC /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/UIImage+MRImageEffects.o MRProgress/src/Blur/UIImage+MRImageEffects.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/UIImage+MRImageEffects.d --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/UIImage+MRImageEffects.dia -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/MRProgress/src/Blur/UIImage+MRImageEffects.m -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/UIImage+MRImageEffects.o36"C01C6395-0D76-4B11-A2CC-825487C8AC0F-
-bC30C3540-CF3A-46E8-A6DF-A136E2735861
-
-CLibtool /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/libPods-MRProgress.a normal i386
-s417200854.108531
-e417200854.738126
-r1
-xLibtool
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/libPods-MRProgress.a
-xnormal
-xi386
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Libtool /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/libPods-MRProgress.a normal i386125"Libtool /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/libPods-MRProgress.a normal i3868fdf1bd6faddb841^aaf3bcd6faddb841^---0#0#1#--1698"Libtool /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/libPods-MRProgress.a normal i386    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -filelist /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Objects-normal/i386/Pods-MRProgress.LinkFileList -framework Accelerate -framework CoreGraphics -framework Foundation -framework QuartzCore -framework UIKit -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/libPods-MRProgress.a36"65A59D67-9CDD-4F5B-9651-7BEAAA4B5BCC-
-b7930EED3-0D12-46C6-B623-B728F4C62995
-
-CProcessPCH /Users/fChopin/Library/Developer/Xcode/DerivedData/BackgroundTransfer-cruepkiqaernbuabfdkpdepvdipz/Index/PrecompiledHeaders/Pods-MRProgress-prefix-btaxpnrbaoahhscduhtkhapkvkee_ast/Pods-MRProgress-prefix.pch.pch Pods-MRProgress-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/fChopin/Library/Developer/Xcode/DerivedData/BackgroundTransfer-cruepkiqaernbuabfdkpdepvdipz/Index/PrecompiledHeaders/Pods-MRProgress-prefix-cdmkguvrlklejlekhudomivgpnvv_ast/Pods-MRProgress-prefix.pch.pch Pods-MRProgress-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ezucrhtgmndotofmtqovyprtpohp/Pods-MRProgress-prefix.pch.pch Pods-MRProgress-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200007.101084
-e417200010.217330
-r1
-xProcessPCH
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ezucrhtgmndotofmtqovyprtpohp/Pods-MRProgress-prefix.pch.pch
-xPods-MRProgress-prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-prefix.pch
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-environment.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Pods-MRProgress-prefix.pch275"ProcessPCH /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ezucrhtgmndotofmtqovyprtpohp/Pods-MRProgress-prefix.pch.pch Pods-MRProgress-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5d701a87f7ddb841^53af378af7ddb841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-prefix.pch0000000000000000^4523"ProcessPCH /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ezucrhtgmndotofmtqovyprtpohp/Pods-MRProgress-prefix.pch.pch Pods-MRProgress-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ezucrhtgmndotofmtqovyprtpohp/Pods-MRProgress-prefix.pch.dia -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ezucrhtgmndotofmtqovyprtpohp/Pods-MRProgress-prefix.pch.d -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-prefix.pch -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ezucrhtgmndotofmtqovyprtpohp/Pods-MRProgress-prefix.pch.pch36"3200A7F4-E6C9-4BA6-8D0A-29DD6749617A-
-bC30C3540-CF3A-46E8-A6DF-A136E2735861
-
-CProcessPCH /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch.pch Pods-MRProgress-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s417200007.100390
-e417200010.217233
-r1
-xProcessPCH
-x/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch.pch
-xPods-MRProgress-prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-prefix.pch
-d/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-environment.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Pods-MRProgress-prefix.pch275"ProcessPCH /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch.pch Pods-MRProgress-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler38651a87f7ddb841^59a2378af7ddb841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-prefix.pch0000000000000000^4534"ProcessPCH /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch.pch Pods-MRProgress-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/fChopin/google-cloud-sdk/bin:/usr/local/git/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0/bin:/Users/fChopin/.rvm/gems/ruby-2.1.0@global/bin:/Users/fChopin/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/fChopin/.gradle:/Users/fChopin/.rvm/bin:/Applications/Android Studio.app/sdk/build-tools/19.0.1:/Applications/MAMP/bin/php/php5.3.6:/Users/fChopin/Developers/Android/LibraryProjects/appengine-java-sdk-1.8.9"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/fChopin/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-generated-files.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-own-target-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-all-target-headers.hmap -iquote /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/Pods-MRProgress-project-headers.hmap -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator/include -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/BuildHeaders/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Headers/MRProgress -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources/i386 -I/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MRProgress.build/DerivedSources -F/Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Products/Debug-iphonesimulator -fobjc-arc --serialize-diagnostics /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch.dia -MMD -MT dependencies -MF /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch.d -c /Users/fChopin/git/macbaszii/BackgroundTransfer/Pods/Pods-MRProgress-prefix.pch -o /Users/fChopin/git/macbaszii/BackgroundTransfer/Build/Intermediates/PrecompiledHeaders/Pods-MRProgress-prefix-ggldawveydfktvarzcfwpurhvaef/Pods-MRProgress-prefix.pch.pch36"84B390E2-00FD-4CDB-913B-B39D961D1A68-
-bC30C3540-CF3A-46E8-A6DF-A136E2735861
-
