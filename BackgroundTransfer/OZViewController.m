@@ -67,11 +67,11 @@
     self.progressView.hidden = NO;
 }
 
-- (IBAction)forceCrash:(id)sender {
-    NSString *someString;
-    NSArray *someArray = @[someString];
-    
-    NSLog(@"%ld", (unsigned long)someArray.count);
+- (IBAction)forceTerminate:(id)sender {
+    UIApplication *app = [UIApplication sharedApplication];
+    if([app respondsToSelector:@selector(suspend)]) {
+        [app performSelector:@selector(suspend)];
+    }
 }
 
 

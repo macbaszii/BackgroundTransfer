@@ -6,7 +6,7 @@
 //  Copyright (c) 2557 Kiattisak Anoochitarom. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 @interface OZAppDelegate : UIResponder <UIApplicationDelegate>
 
