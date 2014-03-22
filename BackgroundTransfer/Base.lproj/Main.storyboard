@@ -29,9 +29,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="9fB-iW-1at">
-                        <barButtonItem key="leftBarButtonItem" title="Crash" id="xfH-PM-IJb">
+                        <barButtonItem key="leftBarButtonItem" title="Exit" id="xfH-PM-IJb">
                             <connections>
-                                <action selector="forceCrash:" destination="vXZ-lx-hvc" id="6sJ-RC-ngu"/>
+                                <action selector="forceTerminate:" destination="vXZ-lx-hvc" id="gkd-Ko-9ko"/>
                             </connections>
                         </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" title="Fetch" id="30C-vc-dDk">
