@@ -64,6 +64,8 @@
     [self.task resume];
     
     self.imageView.hidden = YES;
+    
+    self.progressView.progress = 0;
     self.progressView.hidden = NO;
 }
 
